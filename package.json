@@ -1,0 +1,22 @@
+{
+  "name": "neet-book",
+  "version": "1.0.0",
+  "description": "live2d",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neet-book/Live2DPerformerd.git"
+  },
+  "keywords": [
+    "live2d",
+    "web"
+  ],
+  "author": "neet-book",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neet-book/Live2DPerformerd/issues"
+  },
+  "homepage": "https://github.com/neet-book/Live2DPerformerd#readme"
+}
